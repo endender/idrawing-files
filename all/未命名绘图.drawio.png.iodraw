@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="vohppzJgq_oU6eQMTJM7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ruDY-ri1miYYh-U8063h-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="260" as="targetPoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ruDY-ri1miYYh-U8063h-18" value="提示词增强" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
