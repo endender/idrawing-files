@@ -11,7 +11,7 @@
           <mxGeometry x="-720" y="90" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ruDY-ri1miYYh-U8063h-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入欲审查&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;的文本&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-687" y="251.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="-667" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruDY-ri1miYYh-U8063h-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-490" y="620" width="1170" height="70" as="geometry" />
