@@ -116,9 +116,12 @@
         </mxCell>
         <mxCell id="vohppzJgq_oU6eQMTJM7-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.575;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ruDY-ri1miYYh-U8063h-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="200" as="sourcePoint" />
+            <mxPoint x="-10" y="200" as="sourcePoint" />
             <mxPoint x="-70" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vohppzJgq_oU6eQMTJM7-15" value="Deepseek-R1:7b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-340" y="315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
