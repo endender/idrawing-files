@@ -124,7 +124,7 @@
         <mxCell id="vohppzJgq_oU6eQMTJM7-22" value="本地微调模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-280" y="308.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vohppzJgq_oU6eQMTJM7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.233;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ruDY-ri1miYYh-U8063h-1" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="vohppzJgq_oU6eQMTJM7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ruDY-ri1miYYh-U8063h-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
