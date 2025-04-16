@@ -16,7 +16,7 @@
         <mxCell id="vohppzJgq_oU6eQMTJM7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ruDY-ri1miYYh-U8063h-1" target="ruDY-ri1miYYh-U8063h-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vohppzJgq_oU6eQMTJM7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ruDY-ri1miYYh-U8063h-1">
+        <mxCell id="vohppzJgq_oU6eQMTJM7-34" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ruDY-ri1miYYh-U8063h-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-607" y="490" as="targetPoint" />
           </mxGeometry>
