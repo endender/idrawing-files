@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ruDY-ri1miYYh-U8063h-18" value="提示词增强" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="645" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="301.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ruDY-ri1miYYh-U8063h-19" value="本地Deepseek模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="645" y="295" width="120" height="60" as="geometry" />
