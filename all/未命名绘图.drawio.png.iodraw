@@ -137,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vohppzJgq_oU6eQMTJM7-22" value="本地微调模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-268.84" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="308.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
