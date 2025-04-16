@@ -134,7 +134,7 @@
             <mxPoint x="-290" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vohppzJgq_oU6eQMTJM7-22" value="外部知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vohppzJgq_oU6eQMTJM7-22" value="本地微调模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-350" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
