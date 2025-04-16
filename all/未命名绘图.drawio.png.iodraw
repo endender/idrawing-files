@@ -120,7 +120,7 @@
             <mxPoint x="-70" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vohppzJgq_oU6eQMTJM7-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vohppzJgq_oU6eQMTJM7-14">
+        <mxCell id="vohppzJgq_oU6eQMTJM7-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成思维链数据集&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vohppzJgq_oU6eQMTJM7-14">
           <mxGeometry x="-0.1499" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
